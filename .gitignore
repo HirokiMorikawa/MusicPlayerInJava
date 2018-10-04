@@ -1,0 +1,7 @@
+*.tmp
+*.jar
+*.dylib
+*.zip
+.classpath
+.project
+.settings/
